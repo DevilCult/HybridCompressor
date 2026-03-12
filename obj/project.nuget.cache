@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Z5NotyrFpBA=",
+  "success": true,
+  "projectFilePath": "D:\\CompressionTest\\HCompressor\\HCompressor.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\devil\\.nuget\\packages\\sharpcompress\\0.37.2\\sharpcompress.0.37.2.nupkg.sha512",
+    "C:\\Users\\devil\\.nuget\\packages\\zstdsharp.port\\0.8.2\\zstdsharp.port.0.8.2.nupkg.sha512"
+  ],
+  "logs": []
+}

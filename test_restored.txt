@@ -1,0 +1,14 @@
+Hello World! This is a test file for compression.
+The hybrid compressor uses multiple algorithms:
+- Chunking for parallel processing
+- Data type detection
+- Delta encoding for numeric data
+- RLE for repetitive data
+- LZ77 compression (via Deflate)
+- ANS entropy coding
+- Deduplication for identical blocks
+
+This text will compress very well because it has repetitive patterns!
+Hello World! This is a test file for compression.
+Hello World! This is a test file for compression.
+Hello World! This is a test file for compression.
